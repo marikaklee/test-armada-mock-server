@@ -1,0 +1,9 @@
+{
+ "name": "test-midway",
+ "dependencies": {
+  "testarmada-midway": "^1.0.1"
+ },
+ "scripts": {
+  "start-mock": "node mocks/run-mock-server-console.js"
+ }
+}
